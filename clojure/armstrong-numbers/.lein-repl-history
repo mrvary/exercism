@@ -1,0 +1,37 @@
+(in-ns armstrong-numbers)
+(in-ns 'armstrong-numbers)
+(exp 2 3)
+(load "armstrong-numbers")
+armstrong-number?
+num-of-digits
+(in-ns 'user)
+(require '[armstrong-numbers])
+(exp 2 3)
+digit-sum
+armstrong-numbers/exp
+(exit)
+(dir clj.user)
+(dir user)
+(require '[armstrong-numbers :as a])
+(dir user)
+a
+(require '[armstrong-numbers :as a])
+(ns armstrong-numbers)
+(dir armstrong-numbers)
+(ns user)
+(dir user)
+(require 'armstrong-numbers)
+(dir user)
+armstrong-numbers/num-of-digits
+(exit)
+(ns-interns *ns*)
+(use '[armstrong-numbers])
+(ns-interns *ns*)
+exp
+(exp 2 3)
+(num-of-digits 123)
+(num-of-digits 1233)
+(num-of-digits 1)
+(digit-sum 123 2)
+(armstrong? 10)
+(digits 123)
