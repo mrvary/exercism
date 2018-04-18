@@ -1,0 +1,5 @@
+(doc re-match)
+(doc re-matches)
+(doc re-find)
+(doc clojure.string/split)
+(quit)
