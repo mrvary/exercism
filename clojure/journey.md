@@ -4,7 +4,7 @@ This page collects Functions and Idioms about Clojure while I try to solve the [
 
 ## Functions grouped by exercise
 
-# run-length-encoding
+### run-length-encoding
 
 [partition-by](https://clojuredocs.org/clojure.core/partition-by)
 
